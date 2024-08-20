@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "vlqZk4zyf/HO1v9gpnF7r/0A8bYi48q9QAk1CwVgnt6NfXO39oJD4nf4Hhn5Rphun12A6GUtHnmCwEAB8hZjKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\monster\\Desktop\\SellingBuddy\\SellingBudy-microservice-practice\\Project\\SellingBuddy\\src\\Services\\CatalogService\\CatalogService.Api\\CatalogService.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\monster\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.13\\microsoft.aspnetcore.openapi.7.0.13.nupkg.sha512",
+    "C:\\Users\\monster\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\monster\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\monster\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\monster\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\monster\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\monster\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
