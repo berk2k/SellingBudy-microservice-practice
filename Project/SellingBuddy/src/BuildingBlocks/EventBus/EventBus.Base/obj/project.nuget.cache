@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "gTGsBM/vcl4bB+fLdwiy49gXjEJ4LJoElpvdyTztoAbyhNJlXANkSi/ijVaikGGwEv5SJab4m/zPS5iEg72OMA==",
+  "dgSpecHash": "w/ZaKyX6F8Bhz4qjrAwenGjXH6bpiNSLGFtwMLDUClHcHdIgcf2ieKI4cXF+oO/ZhEYA4o5JG6pPy4fWt0PLMQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\monster\\Desktop\\SellingBuddy\\SellingBudy-microservice-practice\\Project\\SellingBuddy\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\monster\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\monster\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
